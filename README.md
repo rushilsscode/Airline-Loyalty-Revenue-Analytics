@@ -49,7 +49,7 @@ The database follows a fact–dimension model where:
 
 📷 EER Diagram:
 
-![EER Diagram](EER_diagram.png)
+![EER Diagram](EER diagram.png)
 
 ---
 
